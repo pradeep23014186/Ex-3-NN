@@ -119,11 +119,11 @@ predict(w1,w2,test)
 <H3>Output:</H3>
 
 ## Loss Graph:
-<img width="778" height="583" alt="image" src="https://github.com/user-attachments/assets/ca33571d-0d83-4ce0-8e06-58689a6a69dd" />
+![alt text](Loss.png)
 
 ## XOR Testing:
-<img width="281" height="126" alt="image" src="https://github.com/user-attachments/assets/e6a5df3c-7ca4-4e4e-91c5-4427fd01ab84" />
+![alt text](Xor.png)
 
 
 <H3> Result:</H3>
-Thus, XOR classification problem can be solved using MLP in Python 
+Thus, XOR classification problem can be solved using MLP in Python
